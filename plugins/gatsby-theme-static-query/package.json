@@ -1,0 +1,8 @@
+{
+  "name": "gatsby-theme-static-query",
+  "version": "1.0.0",
+  "dependencies": {
+    "@dschau/gatsby-theme-utils": "^0.0.3",
+    "gatsby-plugin-page-creator": "^2.0.5"
+  }
+}
